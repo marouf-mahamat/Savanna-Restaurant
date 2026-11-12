@@ -1,0 +1,42 @@
+Nom provisoire : Savanna Restaurant
+
+Installer React router Dom
+
+utiliser les modules css
+
+Restaurant moderne africain proposant une cuisine locale et internationale dans un cadre élégant.
+
+Le site devra permettre au visiteur de :
+- découvrir le restaurant ;
+- voir les plats ;
+- consulter les prix ;
+- voir les photos ;
+- connaître les horaires ;
+- trouver l'emplacement ;
+- réserver une table ;
+- contacter le restaurant ;
+- accéder rapidement à WhatsApp ;
+- consulter les réseaux sociaux.
+
+
+« Je peux créer votre présence digitale afin que vos clients découvrent votre restaurant, consultent votre menu, voient vos plats, vous localisent et vous contactent directement depuis leur téléphone. »
+
+
+
+const dishes = [
+  {
+    id: 1,
+    name: "Poulet braisé",
+    description: "Poulet braisé accompagné de...",
+    price: 5000,
+    category: "Plats"
+  },
+
+  {
+    id: 2,
+    name: "Brochettes",
+    description: "Brochettes grillées...",
+    price: 3500,
+    category: "Plats"
+  }
+];
